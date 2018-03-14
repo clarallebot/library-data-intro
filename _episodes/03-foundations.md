@@ -18,9 +18,9 @@ keypoints:
 
 Before we crack on with using the computational tools at our disposal, I want to spend some time on some foundation level stuff - a combination of best practice and generic skills that frame what you'll encounter across Library Carpentry.
 
-### The Computer is Stupid
+### The Computer is inflexible
 
-This does not mean that the computer isn't useful. Given a repetitive task, an enumerative task, or a task that relies on memory, it can produce results faster, more accurately, and less grudgingly than you or I. Rather when I say that you should keep in mind that the computer is stupid, I mean to say that computer only does what you tell it to. If it throws up an error, it is often not your fault, rather in most cases the computer has failed to interpret what you mean because it can only work with what it knows (ergo, it is bad at interpreting). This is not to say that the people who told the computer what to tell you when it doesn't know what to do couldn't have done a better job with error messages, for they could. So keep in mind as we go along that if you find an error message frustrating, it isn't the computer's fault that it is giving you an archaic and incomprehensible error message, it is a human person's.
+This does not mean that the computer isn't useful. Given a repetitive task, an enumerative task, or a task that relies on memory, it can produce results faster, more accurately, and less grudgingly than you or I. But the computer only does what you tell it to. In most cases, when we get errors, it means that we did not give the computer enough information or that the computer failed to interpret what you mean because it can only work with what it knows (ergo, it is bad at interpreting). Error messages can be frustrating, and many times the information in them is archaic and incomprehensible. Many times, though, error messages give us important information to understand what we need to change so that the computer will understand what we want it to do. 
 
 ### Why take an automated or computational approach
 
