@@ -24,7 +24,11 @@ This does not mean that the computer isn't useful. Given a repetitive task, an e
 
 ### Why take an automated or computational approach
 
-Otherwise known as the 'why not do it manually?' question. If you know you'll need to repeat a task, you should consider automating it. Many times the main barrier that we have against automating a task is not knowing how to do it, so in this lesson we are going to work on some tools to automate tasks. 
+Otherwise known as the 'why not do it manually?' question. If you know you'll need to repeat a task, you should consider automating it. Many times the main barrier that we have against automating a task is not knowing how to do it, so in this lesson we are going to work on some tools to automate tasks. Figuring out how much time to devote to automating a task is also a skill worth learning. 
+
+![Is it worth the time?](https://imgs.xkcd.com/comics/is_it_worth_the_time.png)
+
+Why Automate?: see [Is it worth the time? image](https://xkcd.com/1205/) from [xkcd.com](https://xkcd.com).
 
 This is one of the main areas in which programmatic ways of doing outside of IT service environments are changing library practice. Andromeda Yelton, a US based librarian closely involved in the Code4Lib movement, put together an American Library Association Library Technology Report called "Coding for Librarians: Learning by Example." The report is pitched at a real world relevance level, and in it Andromeda describes scenarios library professionals told her about where learning a little programming, usually learning ad-hoc, had made a difference to their work, to the work of their colleagues, and to the work of their library.
 
@@ -36,16 +40,10 @@ Main lessons:
 - **Knowing (even a little) code helps you evaluate projects that use code**. Programming can seem alien. Knowing some code makes you better at judging the quality of software development or planning activity that include software development
 - **Automate to make the time to do something else!** Taking the time to gather together even the most simple programming skills can save time to do more interesting stuff! (even if often that more interesting stuff is learning more programming skills ...)
 
-<!--blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Just added two annotations to <a href="https://twitter.com/nthelitz">@nthelitz</a> graphic about the geek/non-geek <a href="http://t.co/KpsRYW8zD2">pic.twitter.com/KpsRYW8zD2</a></p>&mdash; Andy Kirk (@visualisingdata) <a href="https://twitter.com/visualisingdata/status/621957383464599552">July 17, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>-->
 
-![Is it worth the time?](https://imgs.xkcd.com/comics/is_it_worth_the_time.png)
+<!--### Keyboard shortcuts are your friend-->
 
-Why Automate?: see [Is it worth the time? image](https://xkcd.com/1205/) from [xkcd.com](https://xkcd.com).
-
-### Keyboard shortcuts are your friend
-
-Though we will get more computational over the course of the programme, we can start our adventure into programming - as many of you will have already - with very simple things like keyboard shortcuts. We all have our favourites. Labour saving but also exploiting this stupid machine in the best possible way. Alongside the very basic ones (ctrl+s for save; ctrl+c for copy; ctrl+x for cut; ctrl+v for paste) my favourite (in a Windows or Linux machines) is alt+tab, a keyboard shortcut that switches between programs {**Trainer note**: ask other helpers what their favourites are}. You can do all the lessons in Library Carpentry without keyboard shortcuts, but note that they'll likely come up a lot.
+<!--Though we will get more computational over the course of the programme, we can start our adventure into programming - as many of you will have already - with very simple things like keyboard shortcuts. We all have our favourites. Labour saving but also exploiting this stupid machine in the best possible way. Alongside the very basic ones (ctrl+s for save; ctrl+c for copy; ctrl+x for cut; ctrl+v for paste) my favourite (in a Windows or Linux machines) is alt+tab, a keyboard shortcut that switches between programs {**Trainer note**: ask other helpers what their favourites are}. You can do all the lessons in Library Carpentry without keyboard shortcuts, but note that they'll likely come up a lot.-->
 
 ### Plain text formats are your friend
 
