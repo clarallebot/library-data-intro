@@ -1,3 +1,17 @@
+---
+title: "Regular Expressions basics"
+teaching: 20
+exercises: 25
+questions:
+- Use a few basic regular expressions. 
+objectives:
+- Understand the different elements of a regular expression
+keypoints:
+- Match caracters by using characters as a regex
+- Add modifiers to change default behavior: case sensitive.
+- Operators
+---
+
 ## Scenario
 
 You're working with a researcher who needs to locate information within a dataset she has collected. The researcher's data has been transcribed from field notebooks. Data was collected by a number of different grad students, and consists of site names, dates, and instrument readings. 
