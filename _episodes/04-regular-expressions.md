@@ -26,6 +26,8 @@ Regular expressions are typically surrounded by `/` characters, though we will (
 
 As most computational software has regular expression functionality built in and as many computational tasks in libraries are built around complex matching, it is good place for Library Carpentry to start in earnest.
 
+Warning: regex notation is ugly! This is because we're writing patterns to match strings, but we're writing those patterns as strings...using only the symbols on the keyboard (instead of inventing new symbols the way mathematicians do).
+
 ## Examples of when to use Regular Expressions
 
 The more you use regular expressions, the more you realize that you can use them everywhere! These are some examples of contexts that you probably encounter often, where you can take advantage of regular expressions:
