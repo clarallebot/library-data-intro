@@ -29,3 +29,10 @@ Library Carpentry is authored and maintained by the [community](https://github.c
 Please cite as:
 
 Library Carpentry. Data Intro for Librarians. June 2016. http://data-lessons.github.io/library-data-intro/.
+
+## This lesson
+
+This lesson has been developed modifying and merging two lessons:
+
+* The Library Carpentry lesson [Data Intro for Librarians](http://data-lessons.github.io/library-data-intro/)
+* The [regex lesson](https://github.com/code4libtoronto/2016-07-28-librarycarpentrylessons/blob/master/regex/regex.md) from the [Code4lib Library Carpentry event in 2016-07-28](https://code4libtoronto.github.io/2016-07-28-librarycarpentry/).  
