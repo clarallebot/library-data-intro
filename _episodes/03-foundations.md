@@ -97,7 +97,7 @@ The crucial bit for our purposes, however, is the file naming convention you cho
 
 An example of a file naming convention that you could use for your data is
 
-project_datatype_location_yyyymmdd.ext
+project_datatype_location_yyyy-mm-dd.ext
 
 In this example, you are including information about the project, the kind of data you have in this file (for example, interviews), the location associated with this data (for example, for the subset of your interviews that took place in Oregon), and the date. Using standards to name your files is also a good idea. For example, if you are adding the name of countries for location, use the standardized codes from [ISO 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1).
 
