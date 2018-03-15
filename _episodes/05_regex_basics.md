@@ -47,7 +47,7 @@ Notebook 2 uses slashes as separators, and there are no spaces in the site names
 ## Practice
 
 * We will test our regular expressions using [Regex101](https://regex101.com)
-* We need some data to search through. From the scenario above, let's assume that we've loaded all the data from notebook 1 and notebook 2 into one file for our analysis: [Download the sample data](data/sample_data.txt)
+* We need some data to search through. From the scenario above, let's assume that we've loaded all the data from notebook 1 and notebook 2 into one file for our analysis: [Download the sample data](../data/regex_data.txt)
 * Open the sample data file, copy the contents, and paste it into the "Test String" box in Regex101
 
 ## Basics 
