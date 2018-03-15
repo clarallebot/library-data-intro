@@ -26,6 +26,16 @@ Regular expressions are typically surrounded by `/` characters, though we will (
 
 As most computational software has regular expression functionality built in and as many computational tasks in libraries are built around complex matching, it is good place for Library Carpentry to start in earnest.
 
+## Examples of when to use Regular Expressions
+
+The more you use regular expressions, the more you realize that you can use them everywhere! These are some examples of contexts that you probably encounter often, where you can take advantage of regular expressions:
+
+* Text editors, such as Notepad ++, Sublime, Atom, vim...
+* The find and replace feature in spreadsheets, like Excel and Google Sheets. To do this, you need to select the "Search using regular expressions" box. 
+* The find and replace feature in Open Office and Microsoft Word.
+* When using Open Refine, as you can see in the [Open Refine Library Carpentry lesson](http://data-lessons.github.io/library-openrefine/reference)!
+
+
 <!--
 
 A very simple use of a regular expression would be to locate the same word spelled two different ways. For example the regular expression `organi[sz]e` matches both "organise" and "organize".
