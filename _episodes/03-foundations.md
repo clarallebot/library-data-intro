@@ -41,7 +41,7 @@ Main lessons:
 
 ![Is it worth the time?](https://imgs.xkcd.com/comics/is_it_worth_the_time.png)
 
-Why Automate?: see [Is it worth the time? image](https://pbs.twimg.com/media/CKGi8bpW8AQPzOr.png) from [xkcd.com](xkcd.com).
+Why Automate?: see [Is it worth the time? image](https://xkcd.com/1205/) from [https://xkcd.com](xkcd.com).
 
 ### Keyboard shortcuts are your friend
 
