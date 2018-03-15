@@ -28,7 +28,7 @@ Otherwise known as the 'why not do it manually?' question. If you know you'll ne
 
 ![Is it worth the time?](https://imgs.xkcd.com/comics/is_it_worth_the_time.png)
 
-Why Automate?: see [Is it worth the time? image](https://xkcd.com/1205/) from [xkcd.com](https://xkcd.com).
+How to decide whether to automate or not?: see [Is it worth the time? image](https://xkcd.com/1205/) from [xkcd.com](https://xkcd.com).
 
 This is one of the main areas in which programmatic ways of doing outside of IT service environments are changing library practice. Andromeda Yelton, a US based librarian closely involved in the Code4Lib movement, put together an American Library Association Library Technology Report called "Coding for Librarians: Learning by Example." The report is pitched at a real world relevance level, and in it Andromeda describes scenarios library professionals told her about where learning a little programming, usually learning ad-hoc, had made a difference to their work, to the work of their colleagues, and to the work of their library.
 
@@ -94,3 +94,17 @@ In practice, the structure of a good archive might look something like this:
 All this should help you remember something you were working on when you come back to it later (call it real world preservation).
 
 The crucial bit for our purposes, however, is the file naming convention you choose. The name of a file is important to ensuring it and its contents are easy to identify. 'Data.xslx' doesn't fulfil this purpose. A title that describes the data does. And adding dating convention to the file name, associating derived data with base data through file names, and using directory structures to aid comprehension strengthens those connection.
+
+An example of a file naming convention that you could use for your data is
+
+project_datatype_location_yyyymmdd.ext
+
+In this example, you are including information about the project, the kind of data you have in this file (for example, interviews), the location associated with this data (for example, for the subset of your interviews that took place in Oregon), and the date. Using standards to name your files is also a good idea. For example, if you are adding the name of countries for location, use the standardized codes from [ISO 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1).
+
+The way you refer to dates in your own documents and data is one of the most useful areas where to use a standard. Using the ISO 8601 standard will make your dates consistent, and will also allow your computer to organize your documents by date automatically. 
+
+
+![ISO 8601](https://imgs.xkcd.com/comics/iso_8601.png)
+
+Why use a standard for your dates?: see [ISO 8601 image](https://xkcd.com/1179/) from [xkcd.com](https://xkcd.com).
+
