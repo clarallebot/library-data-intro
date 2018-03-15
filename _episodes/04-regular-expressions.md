@@ -26,6 +26,8 @@ Regular expressions are typically surrounded by `/` characters, though we will (
 
 As most computational software has regular expression functionality built in and as many computational tasks in libraries are built around complex matching, it is good place for Library Carpentry to start in earnest.
 
+<!--
+
 A very simple use of a regular expression would be to locate the same word spelled two different ways. For example the regular expression `organi[sz]e` matches both "organise" and "organize".
 
 But it would also match `reorganise`, `reorganize`, `organises`, `organizes`, `organised`, `organized`, et cetera, because we have not specified the beginning or end of our string. So we need to use special syntax to help us be more precise.
@@ -286,6 +288,8 @@ Pair up with the person next to you to work through the following problems.
 > > Without word boundaries you will find that this matches any text you put before `British` or `Manchester`. Nevertheless, the regular expression does a good job on the first look up and may be need to be refined on a second, depending on your data.
 > {: .solution}
 {: .challenge}
+
+-->
 
 ## References
 
