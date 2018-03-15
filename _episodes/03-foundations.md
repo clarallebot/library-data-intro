@@ -40,9 +40,8 @@ Main lessons:
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>-->
 
 ![Is it worth the time?](https://imgs.xkcd.com/comics/is_it_worth_the_time.png)
-Format: ![Is it worth the time?](https://imgs.xkcd.com/comics/is_it_worth_the_time.png)
 
-Why Automate?: see [Is it worth the time? image](https://pbs.twimg.com/media/CKGi8bpW8AQPzOr.png).
+Why Automate?: see [Is it worth the time? image](https://pbs.twimg.com/media/CKGi8bpW8AQPzOr.png) from [xkcd.com](xkcd.com).
 
 ### Keyboard shortcuts are your friend
 
