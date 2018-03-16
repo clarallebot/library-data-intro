@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Library Carpentry"
-teaching: 15
+teaching: 5
 exercises: 0
 questions:
 - What do librarians gain from code?
