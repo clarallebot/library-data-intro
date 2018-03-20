@@ -1,5 +1,5 @@
 ---
-title: "Regular Expressions"
+title: "Introduction to Regular Expressions"
 teaching: 10
 exercises: 25
 questions:
