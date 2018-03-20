@@ -14,9 +14,8 @@ keypoints:
 - `$` asserts the position at the end of the line
 ---
 
-A very simple use of a regular expression would be to locate the same word spelled two different ways. For example the regular expression `organi[sz]e` matches both "organise" and "organize".
+## Summary
 
-But it would also match `reorganise`, `reorganize`, `organises`, `organizes`, `organised`, `organized`, et cetera, because we have not specified the beginning or end of our string. So we need to use special syntax to help us be more precise.
 
 The first we've seen: square brackets can be used to define a list or range of characters to be found. So:
 
@@ -39,6 +38,23 @@ Then there are:
 	- the regular expression `\bfoobar` will match `foobar` and find `foobar777`
 	- the regular expression `foobar\b` will match `foobar` and find `666foobar`
 	- the regular expression `\bfoobar\b` will find `foobar`
+	
+Other useful special characters are:
+
+- `*` matches the preceding element zero or more times. For example, ab*c matches "ac", "abc", "abbbc", etc.
+- `+` matches the preceding element one or more times. For example, ab+c matches "abc", "abbbc" but not "ac".
+- `?` matches when the preceding character appears zero or one time.
+- `{VALUE}` matches the preceding character the number of times defined by VALUE; ranges, say, 1-6, can be specified with the syntax `{VALUE,VALUE}`, e.g. `\d{1,9}` will match any number between one and nine digits in length.
+- `|` means or.
+- `/i` renders an expression case-insensitive (equivalent to `[A-Za-z]`)
+
+## Exercises
+
+A very simple use of a regular expression would be to locate the same word spelled two different ways. For example the regular expression `organi[sz]e` matches both "organise" and "organize".
+
+But it would also match `reorganise`, `reorganize`, `organises`, `organizes`, `organised`, `organized`, et cetera, because we have not specified the beginning or end of our string. So we need to use special syntax to help us be more precise.
+
+We will continue using [regex101.com/](https://regex101.com/) to test our solutions. Copy and paste the data in [regex_exercises_data.txt](data/regex_exercises_data.txt) under "test string". Select the flag 'm' (multiline) and the flag 'g' (global) so that you will get more than one match in one line, and matches in different lines and so that ^ and $ will match the start/end of the line. 
 
 So, what is `^[Oo]rgani.e\b` going to match?
 
@@ -58,14 +74,7 @@ So, what is `^[Oo]rgani.e\b` going to match?
 > {: .solution}
 {: .challenge}
 
-Other useful special characters are:
 
-- `*` matches the preceding element zero or more times. For example, ab*c matches "ac", "abc", "abbbc", etc.
-- `+` matches the preceding element one or more times. For example, ab+c matches "abc", "abbbc" but not "ac".
-- `?` matches when the preceding character appears zero or one time.
-- `{VALUE}` matches the preceding character the number of times defined by VALUE; ranges, say, 1-6, can be specified with the syntax `{VALUE,VALUE}`, e.g. `\d{1,9}` will match any number between one and nine digits in length.
-- `|` means or.
-- `/i` renders an expression case-insensitive (equivalent to `[A-Za-z]`)
 
 So, what are these going to match?
 
