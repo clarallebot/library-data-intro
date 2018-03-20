@@ -54,7 +54,7 @@ A very simple use of a regular expression would be to locate the same word spell
 
 But it would also match `reorganise`, `reorganize`, `organises`, `organizes`, `organised`, `organized`, et cetera, because we have not specified the beginning or end of our string. So we need to use special syntax to help us be more precise.
 
-We will continue using [regex101.com/](https://regex101.com/) to test our solutions. Copy and paste the data in [regex_exercises_data.txt](data/regex_exercises_data.txt) under "test string". Select the flag 'm' (multiline) and the flag 'g' (global) so that you will get more than one match in one line, and matches in different lines and so that ^ and $ will match the start/end of the line. 
+We will continue using [regex101.com/](https://regex101.com/) to test our solutions. Copy and paste the data in [regex_exercises_data.txt](../data/regex_exercises_data.txt) under "test string". Select the flag 'm' (multiline) and the flag 'g' (global) so that you will get more than one match in one line, and matches in different lines and so that ^ and $ will match the start/end of the line. 
 
 So, what is `^[Oo]rgani.e\b` going to match?
 
