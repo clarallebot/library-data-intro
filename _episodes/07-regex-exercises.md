@@ -1,7 +1,7 @@
 ---
 title: "Regular Expressions Exercises"
 teaching: 45
-exercises: 0
+exercises: 17
 questions:
 - How do I select text using regex?
 objectives:
