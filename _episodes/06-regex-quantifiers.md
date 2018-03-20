@@ -3,7 +3,7 @@ title: "Quantifiers in Regular Expressions"
 teaching: 5
 exercises: 10
 questions:
-- How do I slect text using regex?
+- How do I select text using regex?
 objectives:
 - Learn the use of quantifiers to match text with regex
 keypoints:
