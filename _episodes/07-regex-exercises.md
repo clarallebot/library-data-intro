@@ -1,3 +1,19 @@
+---
+title: "Regular Expressions Exercises"
+teaching: 45
+exercises: 0
+questions:
+- How do I select text using regex?
+objectives:
+- Understand how to modify a regular expression to select the desired kind of text.
+keypoints:
+- Select upper case or lower case text with [Aa]
+- `.` matches any character
+- `^` asserts the position at the start of the line.
+- `\b` adds a word boundary
+- `$` asserts the position at the end of the line
+---
+
 A very simple use of a regular expression would be to locate the same word spelled two different ways. For example the regular expression `organi[sz]e` matches both "organise" and "organize".
 
 But it would also match `reorganise`, `reorganize`, `organises`, `organizes`, `organised`, `organized`, et cetera, because we have not specified the beginning or end of our string. So we need to use special syntax to help us be more precise.
