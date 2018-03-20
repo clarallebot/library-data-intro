@@ -1,7 +1,7 @@
 ---
 title: "Regular Expressions basics"
-teaching: 20
-exercises: 25
+teaching: 15
+exercises: 10
 questions:
 - Use a few basic regular expressions. 
 objectives:
