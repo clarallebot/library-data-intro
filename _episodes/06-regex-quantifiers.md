@@ -1,7 +1,7 @@
 ---
 title: "Quantifiers in Regular Expressions"
-teaching: 15
-exercises: 0
+teaching: 5
+exercises: 10
 questions:
 - How do I slect text using regex?
 objectives:
