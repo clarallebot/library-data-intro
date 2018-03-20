@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Regular Expressions"
 teaching: 10
-exercises: 25
+exercises: 0
 questions:
 - How can you imagine using regular expressions in your work?
 objectives:
