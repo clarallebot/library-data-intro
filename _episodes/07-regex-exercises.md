@@ -1,9 +1,21 @@
 ---
+title: "Regular expressions exercises"
+teaching: 5
+exercises: 0
+questions:
+- Exercises to solve together
+objectives:
+- Understand how to modify a regular expression to select the desired kind of text.
+keypoints:
+- Select upper case or lower case; match any character; assert the position at the start and end of line; add a word boundary
+---
+
+---
 title: "Regular Expressions Exercises"
 teaching: 45
 exercises: 17
 questions:
-- How do I select text using regex?
+- Exercises to solve all together
 objectives:
 - Understand how to modify a regular expression to select the desired kind of text.
 keypoints:
