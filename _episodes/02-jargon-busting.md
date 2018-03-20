@@ -1,7 +1,7 @@
 ---
 title: "Jargon Busting"
 teaching: 5
-exercises: 30
+exercises: 0
 questions:
 - What terms, phrases, or ideas around code or software development have you come across and perhaps feel you should know better?
 objectives:
