@@ -14,7 +14,7 @@ keypoints:
 ## Summary
 
 
-The first we've seen: square brackets can be used to define a list or range of characters to be found. So:
+Square brackets can be used to define a list or range of characters to be found. So:
 
 - `[ABC]` matches A or B or C
 - `[A-Z]` matches any upper case letter
