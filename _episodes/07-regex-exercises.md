@@ -66,6 +66,7 @@ So, what is `^[Oo]rgani.e\b` going to match?
 > > Organize
 > > organife
 > > Organike
+> > Organi1e
 > > ~~~
 > > Or, any other string that starts a line, begins with a letter `o` in lower or capital case, proceeds with `rgani`, has any character in the 7th position, and ends with the letter `e`.
 > {: .solution}
