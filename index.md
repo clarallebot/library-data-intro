@@ -3,7 +3,7 @@ layout: lesson
 root: .
 ---
 
-This lesson is a modification from the Library carpentry lesson [Introduction to data](https://data-lessons.github.io/library-data-intro/) and the [regex lesson](https://github.com/code4libtoronto/2016-07-28-librarycarpentrylessons/blob/master/regex/regex.md) from the [Code4lib Library Carpentry event in 2016-07-28](https://code4libtoronto.github.io/2016-07-28-librarycarpentry/). 
+This lesson is a modification from the Library carpentry lesson [Introduction to data](https://data-lessons.github.io/library-data-intro/) combined with the [regex lesson](https://github.com/code4libtoronto/2016-07-28-librarycarpentrylessons/blob/master/regex/regex.md) from the [Code4lib Library Carpentry event in 2016-07-28](https://code4libtoronto.github.io/2016-07-28-librarycarpentry/). 
 
 This lesson is licensed under a [Creative Commons Attribution license CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) ([Legal text here](https://creativecommons.org/licenses/by/4.0/legalcode)). 
 
