@@ -19,7 +19,7 @@ Welcome to Library Carpentry! This series of introductory workshops on software 
 
 The rationale for Library Carpentry is twofold. First, as Andromeda Yelton argues in her [ALA Library Technology Report](http://journals.ala.org/ltr/issue/view/506) 'Coding for Librarians: learning by example', code is a means for librarians to take control of practice and to empower themselves and their organisation to meet user needs in flexible ways. Second, librarians play a crucial role in cultivating world class research. And in most research areas today world class research relies on the use of software. Librarians with software skills are then well placed to continue that cultivation of world class research.
 
-### Where to go for help 
+### Where to go for help?
 
 First, identify people on your table who can help: you will all be working from the same material, so someone around you may have mastered the point you are stuck at.
 
